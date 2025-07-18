@@ -1,0 +1,25 @@
+# Environment variables
+.env
+
+# Knowledge source directory (often contains large or sensitive data)
+/knowledge_source/
+
+# Python cache directories
+__pycache__/
+
+# Python virtual environment
+diabetes_agent/
+
+# Local build artifacts
+*.pyc
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
