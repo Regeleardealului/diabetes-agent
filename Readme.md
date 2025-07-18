@@ -1,7 +1,7 @@
 # MediBot: A Diabetes Knowledge Assistant (RAG Chatbot)
 
-![MediBot Chatbot Interface](https://via.placeholder.com/800x450/1A202E/E0E6F0?text=MediBot+Futuristic+Chat+Interface)
-*(Image Placeholder: Replace with a screenshot of your actual futuristic GUI)*
+![MediBot Chatbot Interface](/medibot.png)
+*(Image Placeholder)*
 
 ## 🚀 Project Overview
 
