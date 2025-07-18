@@ -1,7 +1,6 @@
 # MediBot: A Diabetes Knowledge Assistant (RAG Chatbot)
 
 ![MediBot Chatbot Interface](/medibot.png)
-*(Image Placeholder)*
 
 ## 🚀 Project Overview
 
